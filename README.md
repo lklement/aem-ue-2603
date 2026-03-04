@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--aem-ue-2603--lklement.aem.page/
+- Live: https://main--aem-ue-2603--lklement.aem.live/
 
 ## Documentation
 
